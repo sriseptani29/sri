@@ -12,7 +12,7 @@
 .contact-form h2 {
   text-align: center;
   margin-bottom: 20px;
-  color: var(--text-color, #beb0b0);
+  color: var(--text-color, #333);
 }
 
 .contact-form h4 {
@@ -66,8 +66,7 @@
 }
 
 .average-rating {
-  color: #e6b800; /* Warna kuning untuk rating */
-  font-size: 20px;
+  color: #FFD700; /* Warna kuning untuk rating */
 }
 
 .comment {
@@ -94,8 +93,7 @@
 
 .comment-rating {
   display: flex;
-  color: #e6b800; /* Warna kuning untuk rating */
-  font-size: 17px;
+  color: #FFD700; /* Warna kuning untuk rating */
 }
 
 .comment-rating svg {
